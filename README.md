@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalgrgawy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalgrgawy" /> </p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-algrgawy) [![Mail Badge](https://img.shields.io/badge/-abdoabass-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy77@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@ahmedalgrgawy-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ahmedalgrgawy)
+
 <p align="left"> <a href="https://twitter.com/ahmedalgrgawy" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedalgrgawy?logo=twitter&style=for-the-badge" alt="ahmedalgrgawy" /></a> </p>
+
 
 - 🔭 I’m currently working on **Self - Learning**
 
