@@ -46,4 +46,4 @@
 
 </details>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ahmedalgrgawy&show_icons=true&locale=en&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="ahmedalgrgawy" align="left"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedalgrgawy&show_icons=true&locale=en&bg_color=0D1117&hide_border=true&theme=discord_old_blurple" alt="ahmedalgrgawy" align="left"/>
