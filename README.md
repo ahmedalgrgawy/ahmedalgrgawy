@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalgrgawy?tab=repositories](https://github.com/ahmedalgrgawy?tab=repositories)
 
-- 💬 Ask me about **Html - Css - Js - BootStrap - PugJs - SASS - ReactJS**
+- 💬 Ask me about **Html - Css - Js - BootStrap - PugJs - SASS - ReactJS - Tailwind**
 
 - 📫 How to reach me **ahmedalgrgawy77@gmail.com**
 
