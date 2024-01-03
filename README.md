@@ -6,6 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ahmedalgrgawy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-algrgawy) [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy77@gmail.com) 
 
 <p align="left"> <a href="https://twitter.com/ahmedalgrgawy" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedalgrgawy?logo=twitter&style=for-the-badge" alt="ahmedalgrgawy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedalgrgawy" alt="ahmedalgrgawy" /></a> </p>
 
 
 - 🔭 I’m currently working on **Self - Learning**
