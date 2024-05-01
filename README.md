@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Self - Learning**
 
-- 🌱 I’m currently learning **Advanced React.Js**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://ahmedalgrgawy.github.io/Algrgawy_Portfolio/](https://ahmedalgrgawy.github.io/Algrgawy_Portfolio/)
 
