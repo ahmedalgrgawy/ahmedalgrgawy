@@ -32,9 +32,13 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </p>
 
+<div align="center" >
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedalgrgawy&theme=aura_dark"/>
+</div>
+
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedalgrgawy&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedalgrgawy&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalgrgawy&theme=dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalgrgawy&theme=aura&utcOffset=5.3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedalgrgawy&theme=aura_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedalgrgawy&theme=aura_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalgrgawy&theme=aura_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalgrgawy&theme=aura_dark&utcOffset=5.3" />
 </div>
