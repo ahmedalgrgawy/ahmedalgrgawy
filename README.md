@@ -38,7 +38,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalgrgawy&theme=dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalgrgawy&theme=aura&utcOffset=5.3" />
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalgrgawy&show_icons=true&locale=en&layout=compact" alt="ahmedalgrgawy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedalgrgawy&" alt="ahmedalgrgawy" /></p>
