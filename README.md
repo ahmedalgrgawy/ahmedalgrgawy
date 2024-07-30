@@ -32,7 +32,7 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 50px">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedalgrgawy&theme=aura_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedalgrgawy&theme=aura_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalgrgawy&theme=aura_dark" />
