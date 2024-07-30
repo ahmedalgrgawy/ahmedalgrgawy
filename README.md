@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Self - Learning**
 
-- 🌱 I’m currently learning **NodeJs - ExpressJs**
+- 🌱 I’m currently learning **Backend Stack**
 
 - 👨‍💻 All of my projects are available at [https://ahmedalgrgawy.github.io/Algrgawy_Portfolio/](https://ahmedalgrgawy.github.io/Algrgawy_Portfolio/)
 
