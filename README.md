@@ -32,6 +32,11 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </div>
 
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+ [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,pug,sass,js,react,redux,tailwind,ts,firebase,nodejs,expressjs,postgres,mongodb,git,github,vscode,postman,notion&perline=7)](#)
+</div>
+
 <br/>
 <br/>
 <br/>
