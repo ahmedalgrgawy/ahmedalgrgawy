@@ -32,6 +32,13 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 </p>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedalgrgawy&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedalgrgawy&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalgrgawy&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalgrgawy&theme=aura&utcOffset=5.3" />
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedalgrgawy&show_icons=true&locale=en&layout=compact" alt="ahmedalgrgawy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedalgrgawy&" alt="ahmedalgrgawy" /></p>
