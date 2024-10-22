@@ -7,8 +7,6 @@
 
  [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy77@gmail.com) 
 
- [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy10@gmail.com) 
-
 - 🔭 I’m currently working on **Full-Stack Proejcts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalgrgawy?tab=repositories](https://github.com/ahmedalgrgawy?tab=repositories)
