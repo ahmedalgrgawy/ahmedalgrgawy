@@ -1,21 +1,19 @@
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16F70C&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ahmed+Algrgawy;You+Can+Call+Me+Greg" alt="Typing SVG" />
 </h1>
-<h3 align="center">Front-End Web Developer & FCI Student</h3>
+<h3 align="center">Full-Stack Web Developer & FCI Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalgrgawy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalgrgawy" /> </p>
 
  [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy77@gmail.com) 
 
-- 🔭 I’m currently working on **Self - Learning**
+ [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy10@gmail.com) 
 
-- 🌱 I’m currently learning **Backend Stack**
+- 🔭 I’m currently working on **Full-Stack Proejcts**
 
-- 👨‍💻 All of my projects are available at [https://ahmedalgrgawy.github.io/Algrgawy_Portfolio/](https://ahmedalgrgawy.github.io/Algrgawy_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedalgrgawy?tab=repositories](https://github.com/ahmedalgrgawy?tab=repositories)
 
-- 💬 Ask me about **Html - Css - Js - BootStrap - PugJs - SASS - ReactJS - Tailwind**
-
-- 📫 How to reach me **ahmedalgrgawy77@gmail.com**
+- 💬 Ask me about **ReactJS - Tailwind - Express - MongoDB**
 
 - ⚡ Fun fact **I Love Playing Football - Watching Movies & Series**
 
