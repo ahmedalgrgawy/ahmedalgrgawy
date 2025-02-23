@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedalgrgawy?tab=repositories](https://github.com/ahmedalgrgawy?tab=repositories)
 
-- 💬 Ask me about **ReactJS - Tailwind - Express - MongoDB**
+- 💬 Ask me about **Nextjs - Tailwind - Express - MongoDB**
 
 - ⚡ Fun fact **I Love Playing Football - Watching Movies & Series**
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,pug,sass,js,react,redux,tailwind,ts,firebase,nodejs,expressjs,postgres,mongodb,git,github,vscode,postman,notion&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,pug,sass,js,react,nextjs,redux,tailwind,ts,firebase,nodejs,expressjs,postgres,mongodb,git,github,vscode,postman,notion&perline=8)](https://skillicons.dev)
 
 
 <br/>
