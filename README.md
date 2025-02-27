@@ -28,6 +28,12 @@
 
  [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,pug,sass,js,react,nextjs,redux,tailwind,ts,firebase,nodejs,expressjs,postgres,mongodb,git,github,vscode,postman,notion&perline=8)](https://skillicons.dev)
 
+ 
+<br/>
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedalgrgawy&show_icons=true&theme=dark)
 
 <br/>
 <br/>
