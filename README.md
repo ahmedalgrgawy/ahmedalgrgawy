@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Nextjs - Tailwind - Express - MongoDB**
 
+- 📝 You can Find my Resume available at [Ahmed Algrgawy Cv](https://drive.google.com/file/d/16MbYd6w_TFpqZ_bPA-zJ_RqHkt7R9xtp/view?usp=sharing)
+
 - ⚡ Fun fact **I Love Playing Football - Watching Movies & Series**
 
 <h3 align="left">Connect with me:</h3>
