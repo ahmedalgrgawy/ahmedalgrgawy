@@ -41,5 +41,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalgrgawy&theme=aura_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalgrgawy&theme=aura_dark&utcOffset=5.3" />
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedalgrgawy&theme=dark)](https://git.io/streak-stats)
