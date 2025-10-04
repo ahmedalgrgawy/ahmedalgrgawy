@@ -41,3 +41,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedalgrgawy&theme=aura_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedalgrgawy&theme=aura_dark&utcOffset=5.3" />
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedalgrgawy&" alt="ahmedalgrgawy" /></p
