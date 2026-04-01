@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ahmed.dev**
 
-- 📝 You can Find my Resume available at [Ahmed Algrgawy Cv](https://drive.google.com/file/d/16MbYd6w_TFpqZ_bPA-zJ_RqHkt7R9xtp/view?usp=sharing)
+- 📝 You can Find my Resume available at [Ahmed Algrgawy Cv](https://drive.google.com/file/d/1usTz9_1_Wk9daQ1YmzdoOp56S1QQVb8z/view?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/ahmedalgrgawy?tab=repositories)
 
