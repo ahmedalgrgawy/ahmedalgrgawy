@@ -7,7 +7,7 @@
 
  [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy77@gmail.com) 
 
-- 🔭 I’m currently working on **Full-Stack Proejcts**
+- 🔭 I’m currently working on **Ahmed.dev**
 
 - 📝 You can Find my Resume available at [Ahmed Algrgawy Cv](https://drive.google.com/file/d/16MbYd6w_TFpqZ_bPA-zJ_RqHkt7R9xtp/view?usp=sharing)
 
