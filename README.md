@@ -1,11 +1,12 @@
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16F70C&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ahmed+Algrgawy;You+Can+Call+Me+Greg" alt="Typing SVG" />
 </h1>
-<h3 align="center">Full-Stack Web Developer & FCI Student</h3>
+<h3 align="center">Software Engineer - Full-Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedalgrgawy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedalgrgawy" /> </p>
 
- [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy77@gmail.com) 
+ [![Mail Badge](https://img.shields.io/badge/-ahmedalgrgawy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedalgrgawy10@gmail.com) 
+
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-01067748430-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201067748430)
 
 - 🔭 I’m currently working on **Ahmed.dev**
 
